@@ -1,0 +1,21 @@
+.shortened-title, .shortened-title a {
+    font-size: 20px;
+    font-weight: 600;
+    color: #555;
+}
+
+.shortened-subtitle, .shortened-subtitle a {
+    font-size: 16px;
+    font-weight: 600;
+    color: #555;
+}
+
+.shortened-redirects {
+    padding: 25px 0;
+}
+
+.shortened-redirect {
+    font-size: 14px;
+    opacity: 0.6;
+    color: #555
+}

@@ -1,0 +1,17 @@
+.shortened-link {
+    text-decoration: none;
+    color: rgb(85, 85, 85);
+    display: block;
+    padding: 15px 20px;
+    border-radius: 2px;
+    margin: 0 -20px;
+}
+
+.shortened-link:hover {
+    background: rgba(0, 0, 0, 0.05);
+    color: rgb(85, 85, 85);
+}
+
+.shortened-statistics {
+    opacity: 0.6
+}
